@@ -1,11 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Donut Clicker Game</title>
+    <link rel="stylesheet" href="/style.css">
 </head>
+
 <body>
-    
+    <header>
+        <button id="company-info-button">Company Info</button>
+        <a href="https://orteil.dashnet.org/cookieclicker/" target="_blank"><button>Original Cookie Clicker</button></a>
+        <button id="developer-info-button">Developer Info</button>
+        <button id="reset-button">RESET GAME</button>
+        <div class="dropdown" id="company-info">
+            <p>Army Donuts corporation was established in 2013 by the Army subgroup of wcci</p>
+        </div>
+        <div class="modal" id="developer-info">
+            <p>The Army subgroup started developing together yesterday. They did a great job.</p>
+            <a href="https:" target="_blank">Portfolio</a>
+            <a href="https://github.com" target="_blank">GitHub</a>
+        </div>
+    </header>
+    <h1 class="title">Army Donuts</h1>
+    <p>Better than <span id="leggy">leggy</span> donuts</p>
+    <section class="card main-card">
+        <div class="card-title">Donuts:</div>
+        <p id="donut-count">0</p>
+        <button class="card-button" id="make-donuts">Make <span id="donut-multiplier">1</span> Donut(s)</button>
+    </section>
+    <main>
+        <div class="row">
+            <section class="card">
+                <div class="card-title">Auto Clickers</div>
+                <p>Amount: <span id="auto-clicker-count">0</span></p>
+                <p>Price: <span id="auto-clicker-cost">100</span></p>
+                <button class="card-button" id="auto-clicker-button" disabled="true">Buy Auto Clicker</button>
+            </section>
+            <img src="/images/tank.png" alt="A picture of a donut shop in a tank">
+            <section class="card">
+                <p class="card-title">Multipliers</p>
+                <p>Amount: <span id="multiplier-count">0</span></p>
+                <p>Price: <span id="multiplier-cost">10</span></p>
+                <button class="card-button" id="multiplier-button" disabled="true">Buy Multiplier</button>
+            </section>
+        </div>
+    </main>
+    <script src="/DonutMaker.js"></script>
+    <script src="/app.js"></script>
 </body>
+
 </html>
