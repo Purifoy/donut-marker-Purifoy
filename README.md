@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Welcome to Fred the Baker Baking Company!
 You have been contracted by Fred the Baker Baking Company to take a concept, Donut Maker Clicker, from the drawing board to the browser. Fred the Baker is tired of making real donuts and is ready to retire. He needs our help to keep his love of donuts alive. He wants you to create a game that uses button clicks to create virtual donuts for the world to enjoy. But all those early mornings of donut making may have tired out his brain because he has some strange requirements for 'Auto Clickers' and 'Donut Multipliers'. Unfortunately, it's always "Time to make the Donuts" and Fred is too busy to give us guidance on how to implement these requirements.
 
@@ -317,3 +318,6 @@ Variable, class, and method names should inform the reader of its purpose.
 Variable, class, and method names should use proper casing.
 Comments are rare and only when absolutely necessary
 If you use descriptive method and variable names, your reliance on comments should be minimal. In addition, you should never leave blocks of commented out code in your committed code.
+=======
+# donut-marker-Purifoy
+>>>>>>> 7f9a065dd308e4d2a9a22a8d9c8c4119576bd45c
