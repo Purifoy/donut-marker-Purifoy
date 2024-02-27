@@ -2,9 +2,9 @@
 
 ![Screenshot (192)](https://github.com/Purifoy/donut-marker-Purifoy/assets/24870574/754ef656-05ae-408d-9875-afc8bb5087be)
 
+## **project description**
 
-
-## The Application Requirements
+The Application Requirements
 You must create a website that uses button clicks to create donuts. The donuts can be used as currency to buy Auto Clickers and Donut Multipliers, which will be used to make even more donuts!
 Project Describtion 
 Terminology
