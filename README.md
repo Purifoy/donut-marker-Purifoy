@@ -118,8 +118,8 @@ Cost
 
 ## **Technologies used** 
 
-Javascript
-HTML
-CSS
+### Javascript
+### HTML
+### CSS
 
 
