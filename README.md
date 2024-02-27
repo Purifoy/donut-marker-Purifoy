@@ -1,5 +1,8 @@
-Welcome to Fred the Baker Baking Company!
-You have been contracted by Fred the Baker Baking Company to take a concept, Donut Maker Clicker, from the drawing board to the browser. Fred the Baker is tired of making real donuts and is ready to retire. He needs our help to keep his love of donuts alive. He wants you to create a game that uses button clicks to create virtual donuts for the world to enjoy. But all those early mornings of donut making may have tired out his brain because he has some strange requirements for 'Auto Clickers' and 'Donut Multipliers'. Unfortunately, it's always "Time to make the Donuts" and Fred is too busy to give us guidance on how to implement these requirements.
+Army Donut Maker App
+
+![Screenshot (192)](https://github.com/Purifoy/donut-marker-Purifoy/assets/24870574/754ef656-05ae-408d-9875-afc8bb5087be)
+
+
 
 The Application Requirements
 You must create a website that uses button clicks to create donuts. The donuts can be used as currency to buy Auto Clickers and Donut Multipliers, which will be used to make even more donuts!
