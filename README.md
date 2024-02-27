@@ -116,7 +116,10 @@ Cost
 13.31 donuts
 
 
+## **Technologies used** 
 
-
+Javascript
+HTML
+CSS
 
 
